@@ -1,7 +1,7 @@
 # This is my first readme
 ## Hello,my name is Suleyman
 
-**What I know**
+**What I know ?**
 
 - Java
 - Javascript
@@ -11,10 +11,10 @@
 
 **This my first code line**
 ```
-  print('Hello everyone')
+print('Hello everyone')
 ```
 
-**This random picture**
+**This is random picture**
 ![github logo](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)
 **Please check my new [Github Account](https://github.com/Suleyman1406)**
 	
