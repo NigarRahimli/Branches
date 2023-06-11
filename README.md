@@ -1,5 +1,6 @@
-#This is my first readme
-##Hello,my name is Suleyman
+# This is my first readme
+## Hello,my name is Suleyman
+
 **What I know**
 
 - Java
@@ -15,5 +16,5 @@
 
 **This random picture**
 ![github logo](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)
-**Please check my new [Github Account](https://www.example.com)**
+**Please check my new [Github Account](https://github.com/Suleyman1406)**
 	
