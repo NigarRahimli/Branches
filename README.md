@@ -9,9 +9,9 @@
 - C#
 - C++
 
-**This my first code line**
+**This is my first code line**
 ```
-print('Hello everyone')
+  print('Hello everyone')
 ```
 
 **This is random picture**
